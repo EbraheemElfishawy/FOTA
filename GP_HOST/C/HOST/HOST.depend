@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1589437396 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\blcommands.c
+	"main.h"
+
+1649421084 h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\main.h
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"Windows.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+	"WindowsSerialPort.h"
+	"WindowsSerialPort.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+
+1589437396 h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\linuxserialport.h
+
+1589437396 h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\osxserialport.h
+
+1649426341 h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\windowsserialport.h
+
+1649416346 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\blreplyprocessing.c
+	"main.h"
+
+1649432999 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\fileops.c
+	"main.h"
+
+1589437396 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\linuxserialport.c
+	"main.h"
+	"LinuxSerialPort.h"
+
+1649531292 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\main.c
+	"main.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1589437396 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\osxserialport.c
+	"main.h"
+	"OSxSerialPort.h"
+
+1589437396 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\utilities.c
+	"main.h"
+
+1649519823 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\windowsserialport.c
+	"main.h"
+
+1649417884 source:h:\embedded data\eng amgad samir\bootloader\udemy stm32fx microcontroller custom bootloader development\host\c\host\main.c
+
+1589437396 source:h:\iti\graduation project\host\c\blcommands.c
+	"main.h"
+
+1649421084 h:\iti\graduation project\host\c\main.h
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"Windows.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+	"WindowsSerialPort.h"
+	"WindowsSerialPort.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+
+1589437396 h:\iti\graduation project\host\c\linuxserialport.h
+
+1589437396 h:\iti\graduation project\host\c\osxserialport.h
+
+1649426341 h:\iti\graduation project\host\c\windowsserialport.h
+
+1649416346 source:h:\iti\graduation project\host\c\blreplyprocessing.c
+	"main.h"
+
+1649432999 source:h:\iti\graduation project\host\c\fileops.c
+	"main.h"
+
+1589437396 source:h:\iti\graduation project\host\c\linuxserialport.c
+	"main.h"
+	"LinuxSerialPort.h"
+
+1649531292 source:h:\iti\graduation project\host\c\main.c
+	"main.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1589437396 source:h:\iti\graduation project\host\c\osxserialport.c
+	"main.h"
+	"OSxSerialPort.h"
+
+1589437396 source:h:\iti\graduation project\host\c\utilities.c
+	"main.h"
+
+1649519823 source:h:\iti\graduation project\host\c\windowsserialport.c
+	"main.h"
+
+1649417884 source:h:\iti\graduation project\host\c\host\main.c
+
+1649591136 source:h:\iti\graduation project\sourcecodes\gp_host\c\blcommands.c
+	"main.h"
+
+1649421084 h:\iti\graduation project\sourcecodes\gp_host\c\main.h
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+	"Windows.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+	"WindowsSerialPort.h"
+	"WindowsSerialPort.h"
+	"LinuxSerialPort.h"
+	"OSxSerialPort.h"
+
+1589437396 h:\iti\graduation project\sourcecodes\gp_host\c\linuxserialport.h
+
+1589437396 h:\iti\graduation project\sourcecodes\gp_host\c\osxserialport.h
+
+1649426341 h:\iti\graduation project\sourcecodes\gp_host\c\windowsserialport.h
+
+1649416346 source:h:\iti\graduation project\sourcecodes\gp_host\c\blreplyprocessing.c
+	"main.h"
+
+1589437396 source:h:\iti\graduation project\sourcecodes\gp_host\c\linuxserialport.c
+	"main.h"
+	"LinuxSerialPort.h"
+
+1650035823 source:h:\iti\graduation project\sourcecodes\gp_host\c\main.c
+	"main.h"
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
+1589437396 source:h:\iti\graduation project\sourcecodes\gp_host\c\osxserialport.c
+	"main.h"
+	"OSxSerialPort.h"
+
+1589437396 source:h:\iti\graduation project\sourcecodes\gp_host\c\utilities.c
+	"main.h"
+
+1649519823 source:h:\iti\graduation project\sourcecodes\gp_host\c\windowsserialport.c
+	"main.h"
+
+1649417884 source:h:\iti\graduation project\sourcecodes\gp_host\c\host\main.c
+
+1650033871 source:h:\iti\graduation project\sourcecodes\gp_host\c\fileops.c
+	"main.h"
+

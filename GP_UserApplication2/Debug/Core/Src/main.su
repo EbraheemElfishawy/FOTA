@@ -1,0 +1,12 @@
+main.c:71:5:main	8	static
+main.c:148:8:blink	16	static
+main.c:162:8:blink2	24	static
+main.c:184:8:bootloader_jump_to_user_app1	24	static,ignoring_inline_asm
+main.c:205:8:bootloader_jump_to_user_app2	24	static,ignoring_inline_asm
+main.c:226:8:bootloader_jump_to_bootloader	24	static,ignoring_inline_asm
+main.c:248:9:printmsg	4	static
+main.c:265:6:SystemClock_Config	88	static
+main.c:313:13:MX_USART2_UART_Init	8	static
+main.c:346:13:MX_USART3_UART_Init	8	static
+main.c:380:13:MX_GPIO_Init	48	static
+main.c:426:6:Error_Handler	4	static,ignoring_inline_asm

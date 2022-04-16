@@ -1,0 +1,43 @@
+﻿** create empty repository :
+ git init
+---------------------------------
+** set your name and email :
+git config --global user.name "your name"
+git config --global user.email "email@example.com"
+----------------------------------------------------
+** link your local repo. with github a repository : (only if you have an empty repository on github and you are the first one to add things to it)
+
+git remote add origin (link of your repository on github)
+----------------------------------------------------------
+----------------------------------------------------------
+** To confirm Changes :
+- frst adding them to stagging area : git add .
+- then commit with a suitable commit message :git commit -m "your commit message"
+--------
+** to view commits log (history) :
+git log
+---------------------------------
+** to push your commits to the github repository:
+git push origin master  (or branch name instead of master)
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+** to download the repository to your pc :
+git clone http............ (link of the repo.)
+
+** ((don't type (git remote) as you have the remote already after cloning !!))
+--------------------------------------------------------------------------------------
+
+** to pull the latest update from github to your computer :
+git pull origin master (or branch name instead of master)
+--------------------------------------------------------------------------------------
+** لو انت كتبت حاجات بالغلط وحبيت تلغيها كلها وترجع لآخر حاجة بعد آخر كومميت
+git reset --hard
+---------------------------------------------------------------------------------
+** Branches **
+** عشان تعرض البرانش الحالي / to view the current branch :
+git branch
+
+** عشان تعمل برانش جديد وتحول ليه / create a new branch and switch to it :
+git checkout -b (branch name)
+
